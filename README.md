@@ -28,7 +28,7 @@ Meu Artstation: https://www.artstation.com/slayerrdesigner
 ---
 
 <p align="center">
-  <img src="https://github.com/daemonintel/daemonintel/main/images/terra-ff6.gif">
+  <img src="https://raw.githubusercontent.com/daemonintel/daemonintel/main/images/terra-ff6.gif" width="400">
 </p>
 
 <p align="center">
