@@ -10,9 +10,11 @@
 
 ---
 
-![OSINT](https://img.shields.io/badge/OSINT-1E90FF?style=for-the-badge&logo=search&logoColor=white)
-![Investigation](https://img.shields.io/badge/Investigation-FF7F7F?style=for-the-badge&logo=detective&logoColor=white)
-![CTI](https://img.shields.io/badge/CTI-8B0000?style=for-the-badge&logo=shield&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/OSINT-1E90FF?style=for-the-badge&logo=search&logoColor=white">
+  <img src="https://img.shields.io/badge/Investigation-FF7F7F?style=for-the-badge&logo=detective&logoColor=white">
+  <img src="https://img.shields.io/badge/CTI-8B0000?style=for-the-badge&logo=shield&logoColor=white">
+</p>
 
 ### Sobre mim
 Estou graduando em Defesa cibernética na Impacta tecnologia, atualmente no último semestre. Gosto muito de estudar sobre cibersegurança, com foco em OSINT, CTI e investigação digital no geral. Estou estudando assuntos variados como bash script, python, docker e destrinchando mais estudos relacionados ao blue team e investigação em escopo geral. Estou criando e atualizando playbooks com metodologias e ferramentas OSINT, claro, estou utilizando IA para refinar os textos crus que mando para ela, tornando mais práticos e concisos com a proposta. Todas as ferramentas e metodologias são e foram usados por mim em casos reais, e funcionam! 
