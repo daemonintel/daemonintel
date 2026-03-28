@@ -4,8 +4,6 @@
 
 <h1 align="center">Sejam bem-vindos ao meu perfil!</h1>
 
----
-
 <h3 align="center">Estudante de cibersegurança e investigação digital</h3>
 
 ---
