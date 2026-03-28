@@ -22,7 +22,7 @@ Estou graduando em Defesa cibernética na Impacta tecnologia, atualmente no últ
 - Hobbies: Jogos retro, animes, mangás, filmes e outros;
 - Também faço: design gráfico.
 
-Meu Linkedln: https://www.linkedin.com/in/pedro-deivid-032200261/
+Meu LinkedIn: https://www.linkedin.com/in/pedro-deivid-032200261/<br>
 Meu Artstation: https://www.artstation.com/slayerrdesigner
 
 ---
