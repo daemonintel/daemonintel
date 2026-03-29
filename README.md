@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f1d57685-be9d-4d29-9360-5ea193be8e4d" width="200" style="border-radius: 50%;">
+  <img src="https://github.com/user-attachments/assets/f1d57685-be9d-4d29-9360-5ea193be8e4d" width="300" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Sejam bem-vindos ao meu perfil!</h1>
