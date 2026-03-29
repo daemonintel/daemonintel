@@ -19,7 +19,7 @@
 <h2 align="center">Sobre mim</h2>
 
 <p align="center" style="max-width: 700px; margin: auto; line-height: 1.6;">
-Estou graduando em Defesa cibernética na Impacta tecnologia, atualmente no último semestre. Gosto muito de estudar sobre cibersegurança, com foco em OSINT, CTI e investigação digital no geral. Estou estudando assuntos variados como bash script, python, docker e destrinchando mais estudos relacionados ao blue team e inteligência cibernética em escopo geral. 
+Estou graduando em Defesa cibernética na Impacta tecnologia, atualmente no último semestre. Gosto muito de estudar sobre cibersegurança, com foco em OSINT, CTI e investigação digital no geral. Estou estudando assuntos variados como bash script, python, docker e destrinchando mais estudos relacionados. Possuo grande interesse no aprendizado de webscraping.
 </p>
 
 ---
