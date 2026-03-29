@@ -50,7 +50,7 @@ Estou graduando em Defesa cibernética na Impacta tecnologia, atualmente no últ
 
 <p align="center">
   <small>
-    Obrigada pela visita!<br><br>
+    Obrigado pela visita!<br><br>
     Continuar aprendendo, continuar investigando!
   </small>
 </p>
