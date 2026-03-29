@@ -19,7 +19,7 @@
 <h2 align="center">Sobre mim</h2>
 
 <p align="center" style="max-width: 700px; margin: auto; line-height: 1.6;">
-Estou graduando em Defesa cibernética na Impacta tecnologia, atualmente no último semestre. Gosto muito de estudar sobre cibersegurança, com foco em OSINT, CTI e investigação digital no geral. Estou estudando assuntos variados como bash script, python, docker e destrinchando mais estudos relacionados ao blue team e investigação em escopo geral. Estou criando e atualizando playbooks com metodologias e ferramentas OSINT, claro, estou utilizando IA para refinar os textos crus que mando para ela, tornando mais práticos e concisos com a proposta. Todas as ferramentas e metodologias são e foram usados por mim em casos reais, e funcionam! 
+Estou graduando em Defesa cibernética na Impacta tecnologia, atualmente no último semestre. Gosto muito de estudar sobre cibersegurança, com foco em OSINT, CTI e investigação digital no geral. Estou estudando assuntos variados como bash script, python, docker e destrinchando mais estudos relacionados ao blue team e investigação em escopo geral. 
 </p>
 
 ---
